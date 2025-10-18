@@ -15,7 +15,6 @@ document.addEventListener('DOMContentLoaded', () => {
     // AI personalities
     const aiPersonalities = {
         easy: {
-            riskThreshold: 15,
             bluffChance: 0.1,
             delay: 1000,
             messages: {
